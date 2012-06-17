@@ -30,7 +30,7 @@ either expressed or implied, of the FreeBSD Project.
 
 
 
-1. Intro meeeen
+--Intro meeeen
 
 Desrim ini merupakan sebuah program yang berfungsi sebagai memory allocator 
 atau heap manager alternatif dari malloc() dan standar memory allocator lainnya.
