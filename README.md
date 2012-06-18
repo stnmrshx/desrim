@@ -29,6 +29,7 @@ Untuk saat ini karena Desrim Memory Allocator ini dibuat dari bahasa C dan makny
 bisa dipake untuk :
 
 FreeBSD
+
 Linux
 
 Untuk Windows, MacOSX sama Solaris, ane belom nyoba, soalnyo ane gapunya huheuheuhue. Bisa buat 32bit en 64bit 
@@ -39,7 +40,9 @@ juga loooh.
 Ahk enak bener kok ini installnya, cuma gini :
 
 ./configure
+
 make
+
 sudo make install
 
 Udah deh ntar doi ada di /usr/local/lib disituuuuutuuuuuh
@@ -55,7 +58,7 @@ mau dipake internal gitu tinggal ganti function malloc() jadi ds_malloc()
 --Feedback
 
 Kami ini anak baik-baik, jadi kami dengan tangan terbuka menerima semua bug report, komentar dan masukan. Kalo mau 
-kirim semua itu silahkan kirim saja ke stnmrshx@gmail.com dan berhadiah piring cantik, gelas blink-blik dan payung 
+kirim semua itu silahkan kirim saja ke stnmrshx@gmail.com dan berhadiah piring cantik, gelas blink-blink dan payung 
 unyuuuu loooh X)) nyahahahaha. Mwach mwach semuanya :*
 
 Stn MrshX
